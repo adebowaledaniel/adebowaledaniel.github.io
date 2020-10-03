@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: about
+widget: "about"
 
 # Activate this widget? true/false
 active: true
@@ -12,10 +12,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Biography
+title: Hi, Welcome
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author: admin
+author: "admin"
 ---
