@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605383097835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "580687570",
+    "id" : "4D986FC4",
+    "lastKnownWriteTime" : 1605398123,
+    "last_content_update" : 1605398123101,
+    "path" : "~/Github/adebowaledaniel.github.io/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "236,19",
+        "scrollLine" : "220"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
