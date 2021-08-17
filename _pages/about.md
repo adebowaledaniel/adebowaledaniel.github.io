@@ -14,4 +14,4 @@ Prior to this, I had my first degree in Remote Sensing and GIS at the [Federal U
 
 My interests focus on the application of Earth Observation data, Geospatial Technologies and Artificial Intelligence to agriculture and food security, natural disaster and environmental related issues.
 
-Welcome!
+Welcome!!
