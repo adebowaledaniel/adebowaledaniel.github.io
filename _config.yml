@@ -10,13 +10,8 @@ locale                   : "en-US"
 title                    : "Adebowale Daniel"
 title_separator          : "-"
 name                     : &name "Adebowale Daniel"
-<<<<<<< HEAD
 description              : &description "personal description"
 url                      : https://adebowaledaniel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
-description              : &description "Personal ePortfolio"
-url                      : https://adebowaledaniel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
->>>>>>> 35cda8d0de0044705b6574f448f8ec735a78b2a7
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adebowaledaniel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -90,15 +85,9 @@ author:
   bio              : "MSc. Student"
   location         : "Salzburg, Austria"
   employer         :
-<<<<<<< HEAD
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "Mailto:aadebowaledaniel@gmail.com"
-=======
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "aadebowaledaniel@gmail.com"
->>>>>>> 35cda8d0de0044705b6574f448f8ec735a78b2a7
   researchgate     :  "https://www.researchgate.net/profile/Adebowale-Adebayo"
   uri              :
   bitbucket        :
