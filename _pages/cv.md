@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M. Sc, Copernicus Master in Digital Earth (Erasmus Mundus Joint Master Degree (EMJMD)) 2020-2022
+  * Earth Observation and Geoinfomatics, University of Salzburg, Austria
+  * GeoData Science, University of Southern Brittany, France
+* B.Tech, Remote Sensingand GIS, Federal University of Technology Akure, Nigeria
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Remote Sensing and GIS graduate Intern for Ecosystem Restoration Monitoring
+  - Food and Agricultural Organisation of the United Nation (FAO)
+  - July 2021 - Present.
+* Student Collaborator
+  - [Geohumanitarian, Christian Doppler Lab.](https://geohum.zgis.at/)
+  - Dec 2020 - Feb 2021
+* Geospatial Analyst
+  - The Sixth Avis Ltd
+  - Feb 2020 - Present.
+* GIS Consultant
+  - Propcom Mai-Karfi, Abuja, Nigeria
+  - Nov 2019 - Feb 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python
+* GIS - QGIS & ArcGIS
+<!-- * ML 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
