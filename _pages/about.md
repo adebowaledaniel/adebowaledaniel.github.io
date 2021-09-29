@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an MSc student of [Copernicus Master in Digital Earth](https://www.master-cde.eu/); first year (Earth Observation and Geoinformatics) in the [University of Salzburg](https://www.plus.ac.at/?lang=en), Austria and currently studying GeoData Science (second track) in the [University of Southern Brittany](https://www.univ-ubs.fr/en/index.html), France.
+I am an MSc student of [Copernicus Master in Digital Earth](https://www.master-cde.eu/); first year (Earth Observation and Geoinformatics) in the [University of Salzburg](https://www.plus.ac.at/?lang=en), Austria and currently studying GeoData Science (second year) in the [University of Southern Brittany](https://www.univ-ubs.fr/en/index.html), France.
 
 Prior to this, I had my first degree in Remote Sensing and GIS at the [Federal University of Technology Akure](https://futa.edu.ng/), Nigeria.
 
 My interests focus on the application of Earth Observation data, Geospatial Technologies and Artificial Intelligence to agriculture and food security, natural disaster and environmental related issues.
 
-Welcome!!
+

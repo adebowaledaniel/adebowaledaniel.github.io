@@ -14,7 +14,7 @@ Education
 * M. Sc, Copernicus Master in Digital Earth (Erasmus Mundus Joint Master Degree (EMJMD)) 2020-2022
   * Earth Observation and Geoinfomatics, University of Salzburg, Austria
   * GeoData Science, University of Southern Brittany, France
-* B.Tech, Remote Sensingand GIS, Federal University of Technology Akure, Nigeria
+* B.Tech, Remote Sensingand GIS, Federal University of Technology Akure, Nigeria 2015 - 2019
 
 Work experience
 ======
@@ -34,7 +34,13 @@ Work experience
 Skills
 ======
 * Python
-* GIS - QGIS & ArcGIS
+* GIS 
+  * QGIS 
+  * ArcGIS
+* Data Science 
+  * Machine Learning 
+  * Artificial Intelligence
+
 <!-- * ML 
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -47,7 +53,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks 
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
