@@ -19,17 +19,17 @@ Education
 Work experience
 ======
 * Remote Sensing and GIS graduate Intern for Ecosystem Restoration Monitoring
-  - Food and Agricultural Organisation of the United Nation (FAO)
-  - July 2021 - Present.
+  - Food and Agricultural Organisation of the United Nation (FAO)  
+    July 2021 - Present.
 * Student Collaborator
-  - [Geohumanitarian, Christian Doppler Lab.](https://geohum.zgis.at/)
-  - Dec 2020 - Feb 2021
+  - [Geohumanitarian, Christian Doppler Lab.](https://geohum.zgis.at/)  
+    Dec 2020 - Feb 2021
 * Geospatial Analyst
-  - The Sixth Avis Ltd
-  - Feb 2020 - Present.
+  - The Sixth Avis Ltd  
+    Feb 2020 - Present.
 * GIS Consultant
-  - Propcom Mai-Karfi, Abuja, Nigeria
-  - Nov 2019 - Feb 2020
+  - Propcom Mai-Karfi, Abuja, Nigeria  
+    Nov 2019 - Feb 2020
 
 Skills
 ======
