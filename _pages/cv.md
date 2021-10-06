@@ -39,7 +39,7 @@ Skills
   * ArcGIS
 * Data Science 
   * Machine Learning 
-  * Artificial Intelligence
+  * Artificial Intelligence 
 
 <!-- * ML 
   * Sub-skill 2.1
