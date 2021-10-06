@@ -12,6 +12,6 @@ I am currently a MSc student of [Copernicus Master in Digital Earth](https://www
 
 Prior to this, I had my first degree in Remote Sensing and GIS at the [Federal University of Technology Akure](https://futa.edu.ng/), Nigeria.
 
-My interests focus on the application of Earth Observation data, Geospatial Technologies and Artificial Intelligence to agriculture and food security, natural disaster and environmental related issues.
+My interests focus on applying Earth Observation data, Geospatial Technologies and Artificial Intelligence to agriculture and food security, natural disaster and related environmental issues.
 
 
