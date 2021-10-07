@@ -2,11 +2,7 @@
 title: "Vector Overlay"
 excerpt: "Vector Overlay<br/><img src='/images/Overlay_Analysis.png'>"
 collection: portfolio
-tags:
-  - Methods in Spatial Analysis
-  - PLUS
 ---
-<!-- {% include carousel.html height="50" unit="%" duration="7" %} -->
 
 # Introduction
 
@@ -35,41 +31,39 @@ Various datasets of Salzburg city in Austria have been provided in ArcGIS Servic
 Open spaces are areas within the city characterised by land cover types such as vegetation landscape, water bodies, etc. Since the LULC has several land cover types in its attribute, the areas recognised as open spaces were selected.
 The objective here is to aggregate the open spaces within each Salzburg city district, which gives the Area cover in Hectares also highlight the Majority and Minority Open space category within these districts. This answers and support decision making relevant to urban green area monitoring and spatial planning.
 
-
 <!-- carousel here -->
 
-**Note**: Compared to the “Summarized Within” tool in **ArcGIS Pro**, which performs the functions of the **Spatial Join** and **Summary Statistics tools**, the Join by Location (Summary) was used in **QGIS** to derive the same statistical inference Overlay Analysis. 
+**Note**: Compared to the “Summarized Within” tool in **ArcGIS Pro**, which performs the functions of the **Spatial Join** and **Summary Statistics tools**, the Join by Location (Summary) was used in **QGIS** to derive the same statistical inference Overlay Analysis.
 
 The **Join by Location (Summary)** uses geometric prediction (overlap) to define the relationship between the Open Space and the Census District Boundary, then aggregated the Open Space attributes within the Districts using summarize field function Sum (Area), Minority, and Majority.
 
 **Underlying Geological formation per Built-Up type.**
 
-Again, from the LULC dataset, some attributes representing different built-up were selected and exported as a feature dataset. Using the Join by Location (Summary), aggregate the geological formations underlying each built-up type. This is very important in construction engineering, hydrology, groundwater exploration, and various site suitability as understanding different lithology within an area of interest supports quality decision-making. 
+Again, from the LULC dataset, some attributes representing different built-up were selected and exported as a feature dataset. Using the Join by Location (Summary), aggregate the geological formations underlying each built-up type. This is very important in construction engineering, hydrology, groundwater exploration, and various site suitability as understanding different lithology within an area of interest supports quality decision-making.
 
 <!-- Another Carousel here -->
 
 **Road Aggregation**
 
-The **Intersection** tool was first used to establish the spatial relationship between the road network and the census district feature. The total road length per district and the longest road length within each district were computed in the **function expression**. 
+The **Intersection** tool was first used to establish the spatial relationship between the road network and the census district feature. The total road length per district and the longest road length within each district were computed in the **function expression**.
 
 <!-- Carousel -->
 
 **Built-up that might be affected by Salzach River (100m Buffer).**
 
 This exercise is done based on the assumption that if the Salzach River overflows its bank and for 100m, we would like to know buildings affected by such a hypothetical event.
- 
+
 This exercise is done based on the assumption that if the Salzach River overflows its bank and for 100m, we would like to know buildings affected by such a hypothetical event.
- 
+
 To achieve this objective, an 100m distance buffer was created around the  Salzach River, which signifies the hypothetical vulnerable region in this contest. The built-up selected for the previous analysis/aggregation was continued with.
-There are different overlay operations in vector overlay analysis; two (Within and Intersect) were used, and the result was compared. 
+There are different overlay operations in vector overlay analysis; two (Within and Intersect) were used, and the result was compared.
 
 <!-- Carosuel -->
 
 **Conclusion**
 “One of the most basic questions asked of a GIS is ‘What’s on top of what?'” – [Introduction to Overlay Analysis (Esri)](http://desktop.arcgis.com/en/arcmap/10.3/analyze/commonly-used-tools/overlay-analysis.htm)
 
-Vector Overlay is another powerful spatial analysis that could support quick decision making in various fields. Some multi-criteria problems that required two or more thematic layers (well-structured data) could be approached with vector overlay quickly and easily. 
-
+Vector Overlay is another powerful spatial analysis that could support quick decision making in various fields. Some multi-criteria problems that required two or more thematic layers (well-structured data) could be approached with vector overlay quickly and easily.
 
 **Setting up the Working Environment**
 
