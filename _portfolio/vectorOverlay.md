@@ -1,6 +1,6 @@
 ---
 title: "Vector Overlay"
-excerpt: " <br/><img src='/images/Overlay_Analysis.png'>"
+excerpt: "Vector Overlay<br/><img src='/images/Overlay_Analysis.png'>"
 collection: portfolio
 tags:
   - Methods in Spatial Analysis
