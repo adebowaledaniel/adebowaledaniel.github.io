@@ -9,14 +9,14 @@ main:
   #- title: "Teaching"
    # url: /teaching/    
     
-  # - title: "CDE ePortfolio"
-  #   url: /portfolio/
+  - title: "CDE ePortfolio"
+    url: /portfolio/
         
   # - title: "CDE ePortfolio"
   #  url: /year-archive/
 
   - title: "Blog Posts"
-   url: /year-archive/
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
