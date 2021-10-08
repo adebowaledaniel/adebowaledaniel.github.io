@@ -9,6 +9,7 @@ collection: portfolio
 
 Over time, answers to various spatial questions might cut across several thematic layers, as different layers give ideas/perceptions to integrating solutions or providing information toward solving a problem. One of the spatial operations to approach such questions is Overly Analysis. Overly Analysis involves combining spatial data and its attribute from two or more spatial data layers. In other words, stacking the data and considering where the layers overlap; the thematic layers could be in Vector or Raster data type, but this exercise majorly focused on Vector Overlay.  
 
+
 *This exercise was done in QGIS 3.10*
 
 **Questions to be addressed in the exercise are:**
