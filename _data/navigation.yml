@@ -9,8 +9,8 @@ main:
   #- title: "Teaching"
    # url: /teaching/    
     
-  # - title: "CDE ePortfolio"
-  #   url: /portfolio/
+  - title: "CDE ePortfolio"
+    url: /portfolio/
         
   - title: "CDE ePortfolio"
    url: /year-archive/
