@@ -2,13 +2,14 @@
 title: "Point Analysis"
 date: 2021-10-17
 excerpt: "PPoint Analysis exercise. <br/><img src='/images/ima.png'/>"
-# permalink: /posts/2021/10/Lidar/
+permalink: /posts/2021/10/pointananalysis/
 tags:
   - UBS
   - Image Analysis
 ---
 
-***Point Analysis***  
+Point Analysis
+===
 **Lab exercise**  
 Tasks
 - Negative
