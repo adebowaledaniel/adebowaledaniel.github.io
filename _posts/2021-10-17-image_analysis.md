@@ -2,7 +2,7 @@
 title: "Point Analysis"
 date: 2021-10-17
 excerpt: "PPoint Analysis exercise. <br/><img src='/images/ima.png'/>"
-permalink: /posts/2021/10/Lidar/
+# permalink: /posts/2021/10/Lidar/
 tags:
   - UBS
   - Image Analysis
@@ -39,7 +39,6 @@ print("Image shape: ",image.shape)
     
 ![png](image/image_analysis_files/image_analysis_2_1.png)
     
-
 
 Image Negatives
 ===
