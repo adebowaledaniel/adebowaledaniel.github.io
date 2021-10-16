@@ -1,3 +1,13 @@
+---
+title: "Point Analysis"
+date: 2021-10-17
+excerpt: "PPoint Analysis exercise. <br/><img src='/images/ima.png'/>"
+permalink: /posts/2021/10/Lidar/
+tags:
+  - UBS
+  - Image Analysis
+---
+
 ***Point Analysis***  
 **Lab exercise**  
 Tasks
@@ -27,7 +37,7 @@ print("Image shape: ",image.shape)
 
 
     
-![png](image_analysis_files/image_analysis_2_1.png)
+![png](image/image_analysis_files/image_analysis_2_1.png)
     
 
 
@@ -58,7 +68,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_4_0.png)
+![png](image/image_analysis_files/image_analysis_4_0.png)
     
 
 
@@ -95,7 +105,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_8_0.png)
+![png](image/image_analysis_files/image_analysis_8_0.png)
     
 
 
@@ -130,7 +140,7 @@ io.imshow(lut_gamma_trans(image, 4))
 
 
     
-![png](image_analysis_files/image_analysis_12_1.png)
+![png](image/image_analysis_files/image_analysis_12_1.png)
     
 
 
@@ -156,7 +166,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_15_0.png)
+![png](image/image_analysis_files/image_analysis_15_0.png)
     
 
 
@@ -177,7 +187,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_17_0.png)
+![png](image/image_analysis_files/image_analysis_17_0.png)
     
 
 
@@ -210,7 +220,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_19_0.png)
+![png](image/image_analysis_files/image_analysis_19_0.png)
     
 
 
@@ -230,7 +240,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_21_0.png)
+![png](image/image_analysis_files/image_analysis_21_0.png)
     
 
 
@@ -263,7 +273,7 @@ plt.imshow(contrast_stretch(image))
 
 
     
-![png](image_analysis_files/image_analysis_23_1.png)
+![png](image/image_analysis_files/image_analysis_23_1.png)
     
 
 
@@ -295,7 +305,7 @@ plt.imshow(gray, cmap="gray")
 
 
     
-![png](image_analysis_files/image_analysis_27_1.png)
+![png](image/image_analysis_files/image_analysis_27_1.png)
     
 
 
@@ -317,7 +327,7 @@ plt.show()
 
 
     
-![png](image_analysis_files/image_analysis_29_0.png)
+![png](image/image_analysis_files/image_analysis_29_0.png)
     
 
 
@@ -338,6 +348,6 @@ io.imshow(change_det(post,pre))
 
 
     
-![png](image_analysis_files/image_analysis_30_1.png)
+![png](image/image_analysis_files/image_analysis_30_1.png)
     
 
