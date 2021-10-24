@@ -17,11 +17,11 @@ For exercise:
 Case study: [Mauritius Oli Spill 2020](https://www.esa.int/ESA_Multimedia/Images/2020/08/Mauritius_oil_spill) / MV Wakashio oil spill  
 Date: July 25, 2020  
 Data: Sentinel 1B, IW, Band: VV (2020-08-10)
-
+<!-- Code available on Github -->
 **Workflow**  
 - Data Acquisition from GEE  
 **Mathematical Morphorlogy Operations**
-- Adapative Thresholding / Background Estimation
+- Adaptive Thresholding / Background Estimation
 - Speckle Reduction
 - Segmentation / Binarization
 - Improving the shape accuracy
@@ -176,7 +176,7 @@ plt.show()
 
 The troughs below -20 db are consider the dark spots as seen on the image
 
-## Adapative Thresholding / Background Estimation
+## Adaptive Thresholding / Background Estimation
 
 The the adaptive threshold suggested in the paper is calculated by σth(x,y)= φ B{γB[f(x,y)]}, which is the closing of the opening of the original image
 f(x,y), being B a flat structuring element (SE) typically of size. This technique is used because of drawbacks of other thresholding techniques.  
