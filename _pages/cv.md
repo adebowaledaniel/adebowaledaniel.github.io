@@ -13,8 +13,8 @@ Education
 ======
 
 * M. Sc, Copernicus Master in Digital Earth (Erasmus Mundus Joint Master Degree (EMJMD)) 2020-2022
-  * Earth Observation and Geoinfomatics, University of Salzburg, Austria
-  * GeoData Science, University of Southern Brittany, France
+  * GeoData Science, University of Southern Brittany, France (2021 - present)
+  * Earth Observation and Geoinfomatics, University of Salzburg, Austria (2020 - 2021)
 * B.Tech, Remote Sensingand GIS, Federal University of Technology Akure, Nigeria 2015 - 2019
 
 Work experience
@@ -36,13 +36,21 @@ Work experience
 Skills
 ======
 
-* Python
-* GIS
-  * QGIS
-  * ArcGIS
-* Data Science
-  * Machine Learning
-  * Artificial Intelligence
+* Data processing
+  * Python, Unix shell
+* Geographic Information System
+  * QGIS, ArcGIS Desktop & Online, Python
+* Project management & version control
+  * Git, GitHub
+* ML & DL
+  * Pytorch & Scikit-learn
+* Web development
+  * JavaScript
+* GeoDatabase
+  * SQL, PostGIS
+* Cloud computing
+  * Google Earth Engine
+  
 
 <!-- * ML 
   * Sub-skill 2.1
