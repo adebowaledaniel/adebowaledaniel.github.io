@@ -19,7 +19,7 @@ The processing of the photogrammetric reconstruction on the acquired aerial imag
 
 Therefore, the goal here is to demonstrate the contribution of DSM, Red Edge (RE) and Near Infrared (NIR) based on RGB on the classification (pixel-based) of a landscape. The codes for the analysis can be found [here](https://github.com/adebowaledaniel/emjmd-cde/blob/main/UBS/UAV/Adebayo_UAV.ipynb).
 
-<img src="/images/uav/3d_model.png" alt="3D Model" style="height: 300px; width:500px;"/>    
+<img src="/images/uav/3d_model.png" alt="3D Model""/>    
 
 Site 3D Model 
 
@@ -82,7 +82,7 @@ The perfomance of all the models in SVM are relatively low compared to the Rando
 - RGB + DSM accuracy: 0.37  
 - RGB + NIR + REG + DSM accuracy: 0.60
 
-<img src="/images/uav/results.png" alt="RGB n DSM feature importance" style="height: 1000px; width:1020px;"/>
+<img src="/images/uav/results.png" alt="classification results" style="height: 1000px; width:1020px;"/>
 
 ## Conclusion
 This exercise is aimed to compare and demonstrate the contribution of each UAV multispectral band in land-use land-cover classification using two different supervised machine learning algorithms - Random Forest and SVM. From the resulting model performances, it is noted that the categories with DSM band have slightly better than those without and contributed significantly to the classification accuracy as seen in the Randon forest feature importance. To be more specific, the random forest RGB + DSM model has the overall best accuracy in this exercise.   
