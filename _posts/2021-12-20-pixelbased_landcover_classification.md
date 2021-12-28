@@ -1,7 +1,7 @@
 ---
 title: "Land Cover Classification from Multispectral UAV image aqucisition"
 date: 2021-12-20
-excerpt: "Land Cover Classification from Multispectral UAV image aqucisition. <br/><img src='/images/uav/dp.png'/>"
+excerpt: "Land Cover Classification from Multispectral UAV image aqucisition. <br/><img src='/images/uav/dp2.png'/>"
 permalink: /posts/2021/12/uav/
 tags:
   - UBS
@@ -80,11 +80,15 @@ The perfomance of all the models in SVM are relatively low compared to the Rando
 - RGB + NIR accuracy: 0.23  
 - RGB + REG accuracy: 0.40  
 - RGB + DSM accuracy: 0.37  
-- RGB + NIR + REG + DSM accuracy: 0.60
+- RGB + NIR + REG + DSM accuracy: 0.60  
 
-<img src="/images/uav/results.png" alt="classification results" style="height: 1000px; width:1020px;"/>
+<img src="/images/uav/results2.png" alt="classification results" style="height: 1000px; width:1020px;"/>
+
+Classification results
 
 ## Conclusion
 This exercise is aimed to compare and demonstrate the contribution of each UAV multispectral band in land-use land-cover classification using two different supervised machine learning algorithms - Random Forest and SVM. From the resulting model performances, it is noted that the categories with DSM band have slightly better than those without and contributed significantly to the classification accuracy as seen in the Randon forest feature importance. To be more specific, the random forest RGB + DSM model has the overall best accuracy in this exercise.   
 
 Also, generating more training data points would be considered to increase all the models' performance accuracy.
+
+Source code [here](https://github.com/adebowaledaniel/emjmd-cde/blob/main/UBS/UAV/Adebayo_UAV.ipynb)
