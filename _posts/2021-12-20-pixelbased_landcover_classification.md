@@ -1,8 +1,8 @@
 ---
 title: "Land Cover Classification from Multispectral UAV image aqucisition"
 date: 2021-12-20
-excerpt: "Land Cover Classification from Multispectral UAV image aqucisition. <br/><img src='/images/Q.png'/>"
-# permalink: /posts/2021/10/Lidar/
+excerpt: "Land Cover Classification from Multispectral UAV image aqucisition. <br/><img src='/images/uav/dp.png'/>"
+permalink: /posts/2021/12/uav/
 tags:
   - UBS
   - Active and Passive Remote Sensing
