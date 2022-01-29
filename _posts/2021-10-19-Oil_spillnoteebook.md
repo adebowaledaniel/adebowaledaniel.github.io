@@ -486,7 +486,7 @@ plt.imshow(D, cmap='gray')
     
 
 
-**Working progress**
+**Work in progress**
 
 
 
