@@ -4,7 +4,7 @@ date: 2022-01-30
 excerpt: "Internship <br/><img src='/images/Internship.png'/>"
 # permalink: /posts/2013/08/blog-post-2/
 tags:
-  - Intership
+  - Internship
 ---
 
 
