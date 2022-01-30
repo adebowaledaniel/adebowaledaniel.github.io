@@ -22,7 +22,7 @@ Work experience
 
 * Remote Sensing and GIS graduate Intern for Ecosystem Restoration Monitoring
   * Food and Agricultural Organisation of the United Nation (FAO)  
-    July 2021 - Present.
+    July 2021 - Oct. 2021.
 * Student Collaborator
   * [Geohumanitarian, Christian Doppler Lab.](https://geohum.zgis.at/)  
     Dec 2020 - Feb 2021
