@@ -57,6 +57,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+######Important#####
+If the embedded PDF below does not load, you can <u><a href="https://stuartgeiger.com/geiger-cv.pdf">download it here.</a></u>
+<br/>
 
 Publications
 ======
