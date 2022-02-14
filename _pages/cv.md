@@ -35,30 +35,15 @@ Work experience
 
 Skills
 ======
-<!-- 
-* Data processing
-  * Python, Unix shell
-* Geographic Information System
-  * QGIS, ArcGIS Desktop & Online, Python
-* Project management & version control
-  * Git, GitHub
-* ML & DL
-  * Pytorch & Scikit-learn
-* Web development
-  * JavaScript
-* GeoDatabase
-  * SQL, PostGIS
-* Cloud computing
-  * Google Earth Engine -->
-<!-- Table    -->
-|            Category           |                          |
+
+| Category | |
 | --------------------- | ------------------------ |
 | **Programming Languages** | Python, JavaScript, SQL, R |
 | **Software & Tools**      | **Geospatial:** GDAL, Google Earth Engine, QGIS, ArcGIS |
 |                       | **ML & AI:** Scikit-learn, Pytorch, Jupyter Notebook |
 |                       | **Database:** PostgreSQl, PostGIS |
 |                       | **Web Mapping & Visualization:** GeoServer, Leaflet, OpenLayer, KeplerGL, iTowns |
-|                       | **Other:** Git, UNIX shell, $LATEX$ |
+|                       | **Other:** Git, UNIX shell, LATEX |
 
 Publications
 ======
