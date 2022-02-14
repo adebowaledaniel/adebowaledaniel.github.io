@@ -35,7 +35,7 @@ Work experience
 
 Skills
 ======
-
+<!-- 
 * Data processing
   * Python, Unix shell
 * Geographic Information System
@@ -49,8 +49,16 @@ Skills
 * GeoDatabase
   * SQL, PostGIS
 * Cloud computing
-  * Google Earth Engine
-  
+  * Google Earth Engine -->
+<!-- Table    -->
+|                       |                          |
+| --------------------- | ------------------------ |
+| **Programming Languages** | Python, JavaScript, SQL, R |
+| **Software & Tools**      | **Geospatial:** GDAL, Google Earth Engine, QGIS, ArcGIS|
+|                       | **ML & AI:** Scikit-learn, Pytorch, Jupyter Notebook|
+|                       | **Web Mapping & Visualization:** GeoServer, Leaflet, OpenLayer, KeplerGL, iTowns    |
+|                       | **Other:** Git, UNIX shell, LATEX |
+
 
 <!-- * ML 
   * Sub-skill 2.1
