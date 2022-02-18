@@ -31,7 +31,7 @@ On-board sensors:
 - DJI 4V2 - RGB  
 - Parrot Sequoia - Red Edge (RE) and Near Infrared (NIR)  
 The DSM was generated (rasterized) from the dense cloud during the data preparation in Agisoft.  
-<img src="/images/uav/all_bands.png" alt="All spectral bands";"/>  
+<img src="/images/uav/all_bands.png" alt="All spectral bands";/>  
 
 Multispectral bands
 
