@@ -14,7 +14,7 @@ Education
 
 * M. Sc, Copernicus Master in Digital Earth (Erasmus Mundus Joint Master Degree (EMJMD)) 2020-2022
   * GeoData Science, University of Southern Brittany, France (2021 - present)
-  * Earth Observation and Geoinfomatics, Paris-Lodron University of Salzburg, Austria (2020 - 2021)
+  * Earth Observation and Geoinfomatics, University of Salzburg, Austria (2020 - 2021)
 * B.Tech, Remote Sensingand GIS, Federal University of Technology Akure, Nigeria 2015 - 2019
 
 Work experience
@@ -41,7 +41,7 @@ Skills
 | **Programming Languages** | Python, JavaScript, SQL, R |
 | **Software & Tools**      | **Geospatial:** GDAL, Google Earth Engine, QGIS, ArcGIS |
 |                       | **ML & AI:** Scikit-learn, Pytorch, Jupyter Notebook |
-|                       | **Database:** PostgreSQL, PostGIS |
+|                       | **Database:** PostgreSQl, PostGIS |
 |                       | **Web Mapping & Visualization:** GeoServer, Leaflet, OpenLayer, KeplerGL, iTowns |
 |                       | **Other:** Git, UNIX shell, LATEX |
 
@@ -49,10 +49,10 @@ Publications
 ======
 
 In Journal:  
-Drought analysis and groundwater prioritization of a typical data-scarce drought-prone hydrological basin using geospatial techniques. Groundwater for Sustainable Development. Olabode, O. F., Adebayo, A. D., & Ekundayo, O. Y. (2021).  
+Olabode, O. F., Adebayo, A. D., & Ekundayo, O. Y. (2021). Drought analysis and groundwater prioritization of a typical data-scarce drought-prone hydrological basin using geospatial techniques. Groundwater for Sustainable Development, 13.
 
 Conference proceedings:  
-Multi-Feature Sample Database for Enhancing Deep Learning Tasks in Operational Humanitarian Applications. Lang, S., Wendt, L., Tiede, D., Gao, Y., Streifender, V., Zafar, H., Adebayo, A., Jeremias, Schwendemann, G., & Jeremias, P. (2021).  
+Lang, S., Wendt, L., Tiede, D., Gao, Y., Streifender, V., Zafar, H., Adebayo, A., Jeremias, Schwendemann, G., & Jeremias, P. (2021). Multi-Feature Sample Database for Enhancing Deep Learning Tasks in Operational Humanitarian Applications.  
 
 <!-- * ML 
   * Sub-skill 2.1
