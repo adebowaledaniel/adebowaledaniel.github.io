@@ -10,10 +10,17 @@ author_profile: true
 Topic
 =====
 
-Land Use Land Cover Change Detection from Sentinel-2 Image Time Series  
+Land use land cover change detection from Sentinel-2 image time series using deep learning techiniques.  
 
-Supervior: Dr Charlotte Pelletier (UBS), Prof. Stefan Lang (PLUS) and Dr Silva Valero (CESBIO)  
+Superviors: Dr Charlotte Pelletier (UBS), Prof. Stefan Lang (PLUS) and Dr Silvia Valero (CESBIOCESBIO/Uni. Toulouse III)  
 
-**Keywords:** satellite image time series, Sentinel-1, Sentinel-2, temporal domain adaptation, deep learning, self-attention mechanism  
+**Keywords:** satellite image time series, Sentinel-2, temporal domain adaptation, deep learning, self-attention mechanism.  
 
-Lookout for more details soon...
+ My research is divided into the following tasks:  
+
+ 1. performing a comprehensive review on change detection and temporal unsuperviseddomain adaptation techniques;  
+ 2. extracting  two  Sentinel-2  SITS  and  gathering  ground  truth  data  from  French  LandParcel Information System;  
+ 3. assessing the accuracy of two baseline change maps:  (i) obtained by computing thedifference between the two land cover maps obtained by fully-supervised learning algo-rithms when reference data are available for the two years, and (ii) obtained by com-puting the difference between the two land cover maps obtained by a model trainedfor one year;  
+ 4. proposing novel approaches based on temporal domain adaptation to improve the landcover change maps obtained in the two settings.  
+
+Check back for more details..
