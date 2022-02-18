@@ -12,7 +12,7 @@ redirect_from:
 Topic
 =====
 
-**Land Use Land Cover Change Detection from Sentinel-2 Image Time Series**  
+Land Use Land Cover Change Detection from Sentinel-2 Image Time Series  
 
 Supervior: Dr Charlotte Pelletier (UBS), Prof. Stefan Lang (PLUS) and Dr Silva Valero (CESBIO)  
 
