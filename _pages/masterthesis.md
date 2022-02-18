@@ -3,8 +3,6 @@ layout: archive
 title: "Master Thesis"
 permalink: /masterthesis/
 author_profile: true
-redirect_from:
-  - /thesis
 ---
 
 {% include base_path %}
