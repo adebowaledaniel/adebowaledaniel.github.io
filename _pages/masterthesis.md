@@ -7,10 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Topic
-=====
-
-Land use land cover change detection from Sentinel-2 image time series using deep learning techiniques.  
+**Topic :** Land use land cover change detection from Sentinel-2 image time series using deep learning techiniques.  
 
 Superviors: Dr Charlotte Pelletier (UBS), Prof. Stefan Lang (PLUS) and Dr Silvia Valero (CESBIOCESBIO/Uni. Toulouse III)  
 
