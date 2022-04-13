@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Topic :** Land use land cover change detection from Sentinel-2 image time series using deep learning techiniques.  
+**Topic :** Deep domain adaptation techniques for multi-temporal change detection.  
 
 Superviors: Dr Charlotte Pelletier (IRISA/UBS), Prof. Stefan Lang (Z_GIS/PLUS) and Dr Silvia Valero (CESBIO/Uni. Toulouse III)  
 
