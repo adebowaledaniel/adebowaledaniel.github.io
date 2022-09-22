@@ -14,4 +14,5 @@ Prior to this, I had my first degree in Remote Sensing and GIS at the [Federal U
 
 My interests focus on applying Earth Observation data, Geospatial Technologies and Artificial Intelligence to agriculture and food security, natural disaster and related environmental issues.
 
+Check out my [CV](https://github.com/adebowaledaniel/adebowaledaniel.github.io/blob/main/AdebowaleDaniel-resume.pdf)
 

@@ -18,8 +18,8 @@ main:
   # - title: "CDE ePortfolio"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Master Thesis"
-    url: /masterthesis/
+  # - title: "Master Thesis"
+  #   url: /masterthesis/

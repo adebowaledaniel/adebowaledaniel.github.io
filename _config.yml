@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Adebowale Daniel Adebayo"
   avatar           : "profile.png"
-  bio              : "MSc. Student Copernicus Digital Earth"
-  location         : "Vannes, France"
+  bio              : "Earth Observation Data Scientist"
+  location         : "Toulouse, France"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :  "aadebowaledaniel@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Adebowale-Adebayo"
   uri              :
